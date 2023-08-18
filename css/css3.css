@@ -1,0 +1,53 @@
+body{
+	background: rgba(0, 0, 0, 0.5);
+}
+
+
+#first{
+	
+	text-transform: uppercase;
+	
+	color: rgba(0, 220, 55,);
+}
+
+#second{
+	text-transform: uppercase;
+	color: #00FFFF;
+}
+
+#p1{
+	text-transform: uppercase;
+	color: #ff0000;
+}
+
+
+
+#p2{
+	text-transform: uppercase;
+	
+	color: #00FFFF;
+}
+
+#p4{
+	color: black;
+	text-transform: uppercase;
+	color: rgba(0, 0, 233);
+
+}
+
+#p3{
+color: black;
+	text-transform: uppercase;
+	color: rgba(0, 0, 233);
+
+}
+
+#third{
+color: black;
+	text-transform: uppercase;
+	color: rgba(0, 0, 233);
+}
+
+
+
+
